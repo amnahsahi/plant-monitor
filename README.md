@@ -45,9 +45,12 @@ This project integrates soil moisture probes with a backend API to monitor plant
 ```
 ---
 ## Getting Started
+
+```
 git clone https://github.com/amnahsahi/plant-monitor.git
 cd plant-monitor
 docker-compose up --build
+```
 
 ## Notes
 	•	Database file: plants.db
