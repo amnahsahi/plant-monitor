@@ -1,4 +1,4 @@
-Smart Plant Monitoring System
+#Smart Plant Monitoring System
 
 A real-time plant monitoring application that tracks soil moisture, sends alerts when watering is needed, and visualises trends using Grafana.
 
